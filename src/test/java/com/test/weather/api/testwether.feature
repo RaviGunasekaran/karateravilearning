@@ -17,6 +17,20 @@
 ## (Comments)
 
 #Sample Feature Definition Template
+
+#API Reference:
+  #{
+    #"id": 1277333,
+    #"name": "Bangalore",
+    #"country": "IN",
+    #"coord": {
+      #"lon": 77.603287,
+      #"lat": 12.97623
+    #}
+  #},
+  
+  #	REFENCE = Wether API Doc : https://openweathermap.org/current#name
+  
 @tag
 Feature: Test Wether API
 
